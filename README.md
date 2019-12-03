@@ -15,26 +15,27 @@ Wood or acrylic (optional)
 ### Apa102 driver:
 This will allow you to easily download the subsequent library. To instal Python 3, go to this [link](https://pimylifeup.com/raspberry-pi-led-strip-apa102/) and follow the instructions through step #3 or just copy and paste the following commands into your device’s terminal:
 
-sudo apt-get update
+>sudo apt-get update
 
-sudo apt-get upgrade
+>sudo apt-get upgrade
 
-sudo apt-get install python3 python3-dev python3-pip
+>sudo apt-get install python3 python3-dev python3-pip
 
-sudo pip3 install apa102-pi
+>sudo pip3 install apa102-pi
 
 ### Beautiful Soup 4:
 This is a Python library for pulling data from HTML and XML files. To download this library, follow the instructions on this [link](https://www.pythonforbeginners.com/beautifulsoup/beautifulsoup-4-python) or enter the following commands into your device’s terminal:
 
-apt-get install python-bs4
+>apt-get install python-bs4
 
-easy_install beautifulsoup4
+>easy_install beautifulsoup4
 
-pip install beautifulsoup4
+>pip install beautifulsoup4
 
 ## **Project Roles:**
 ### Jorge:
 Wiring & soldering
+
 Writing a macros to launch python code
 
 ### Trevor:
