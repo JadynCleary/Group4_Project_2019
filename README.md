@@ -34,8 +34,7 @@ Once all pieces are all cut out, follow these steps. Read all instruction steps 
 8. Glue both pieces straightly to the back of the 4" x 13" rectangle, ensuring that you are not covering the rectangular hole. Ensure that you can see the keyholes and that the circular hole in the keyhole is below the long hole. The rectangular prism missing a bottom edge must be placed to the right of the rectangular hole, with the missing edge facing the bottom of the board.
 
 ## **Raspberry Pi 3 GPIO Pins**
-![Pins]
-(https://raw.githubusercontent.com/JadynCleary/Group4_Project_2019/master/pi3_gpio.png)
+![Pins](https://raw.githubusercontent.com/JadynCleary/Group4_Project_2019/master/pi3_gpio.png)
 
 ## **Libraries Needed:**
 
