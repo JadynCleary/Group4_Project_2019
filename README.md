@@ -12,6 +12,21 @@ IB Group 4 project for the POHS computer science class of 2019
 
 * Wood or acrylic (optional for containment unit)
 
+## **Containment Unit Building Instructions**
+Once all pieces are all cut out, follow these steps:
+
+1. Take the 1.5” x 3.25” inch rectangle and glue it to a complete 1.5” x 3.75” rectangle, with the bottom edges flush together and the side edges flush together. 
+
+2. Glue the complete 1.5” x 3.75” rectangle to another 1.5” x 3.75” rectangle, all edges flush together.
+
+3. Glue another 1.5” x 3.75” rectangle with a rounded rectangular hole in the middle to the previous 1.5” x 3.75” rectangle, 
+
+4. Glue another  1.5” x 3.75” rectangle with a rounded rectangular hole in the middle to another 1.5” x 3.75” rectangle with a rounded rectangular hole in the middle. All edges must be flush to one another
+
+5. Glue the  1.5” x 3.75” rectangle with a keyhole shape to the top rounded rectangle and rounded rectangular hole. You should now have a 6-piece tall rectangle with a notch cut out of a bottom edge.
+
+6. Take the remaining 6 pieces and repeat steps 2-5, doing step 2 twice in lieu of step 1.
+
 ## **Raspberry Pi 3 GPIO Pins**
 ![Pins]
 (https://raw.githubusercontent.com/JadynCleary/Group4_Project_2019/master/pi3_gpio.png)
