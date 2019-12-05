@@ -13,19 +13,25 @@ IB Group 4 project for the POHS computer science class of 2019
 * Wood or acrylic (optional for containment unit)
 
 ## **Containment Unit Building Instructions**
-Once all pieces are all cut out, follow these steps:
+Once all pieces are all cut out, follow these steps. Read all instruction steps before proceeding.
 
-1. Take the 1.5” x 3.25” inch rectangle and glue it to a complete 1.5” x 3.75” rectangle, with the bottom edges flush together and the side edges flush together. 
+1. Glue the DotStar Matrix to the 4" x 13" board, ensuring that the wires are coming through the rectangular hole.
 
-2. Glue the complete 1.5” x 3.75” rectangle to another 1.5” x 3.75” rectangle, all edges flush together.
+2. Take the 1.5” x 3.25” inch rectangle and glue it to a 1.5” x 3.75” rectangle with no holes, with the bottom edges flush together and the side edges flush together. 
 
-3. Glue another 1.5” x 3.75” rectangle with a rounded rectangular hole in the middle to the previous 1.5” x 3.75” rectangle, 
+3. Glue the 1.5” x 3.75” rectangle with no holes to another 1.5” x 3.75” rectangle with no holes, all edges flush together.
 
-4. Glue another  1.5” x 3.75” rectangle with a rounded rectangular hole in the middle to another 1.5” x 3.75” rectangle with a rounded rectangular hole in the middle. All edges must be flush to one another
+3. Glue another 1.5” x 3.75” rectangle with a rounded rectangular hole in the middle to the previous 1.5” x 3.75” rectangle with no holes. You should now have a four-piece tall rectangular prism.
 
-5. Glue the  1.5” x 3.75” rectangle with a keyhole shape to the top rounded rectangle and rounded rectangular hole. You should now have a 6-piece tall rectangle with a notch cut out of a bottom edge.
+4. Glue another  1.5” x 3.75” rectangle with a rounded rectangular hole in the middle to another 1.5” x 3.75” rectangle with a rounded rectangular hole in the middle. All edges must be flush to one another. You should now have a five-piece tall rectangular prism.
 
-6. Take the remaining 6 pieces and repeat steps 2-5, doing step 2 twice in lieu of step 1.
+5. Glue the  1.5” x 3.75” rectangle with a keyhole shape to the top rectangle with the rounded rectangular hole. You should now have a 6-piece tall rectangle with a notch cut out of a bottom edge.
+
+6. Take the remaining 6 pieces and repeat steps 2-5, doing step 2 twice in lieu of step 1. 
+
+7. Once the second stack has been completed, you should have two 6-piece high rectangular prisms, one with a small chunk missing from a bottom edge.
+
+8. Glue both pieces straightly to the back of the 4" x 13" rectangle, ensuring that you are not covering the rectangular hole. Ensure that you can see the keyholes and that the circular hole in the keyhole is below the long hole. The rectangular prism missing a bottom edge must be placed to the right of the rectangular hole, with the missing edge facing the bottom of the board.
 
 ## **Raspberry Pi 3 GPIO Pins**
 ![Pins]
