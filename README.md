@@ -12,6 +12,10 @@ IB Group 4 project for the POHS computer science class of 2019
 
 * Wood or acrylic (optional for containment unit)
 
+## **Raspberry Pi 3 GPIO Pins**
+![Pins]
+(https://raw.githubusercontent.com/JadynCleary/Group4_Project_2019/master/pi3_gpio.png)
+
 ## **Libraries Needed:**
 
 ### Apa102 driver:
