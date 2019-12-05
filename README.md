@@ -6,11 +6,11 @@ IB Group 4 project for the POHS computer science class of 2019
   Our Group 4 project was to link an LED board to a school twitter account to relay announcements to the student body. For this project, we used various libraries to aid us in developing our code as well as relying on code examples from projects similar to ours. This project required us to work together to pull tweets from the internet, program, and wire the LED board, as well as build a containment unit.
 
 ## **Materials necessary:**
-Raspberry Pi 3
+* Raspberry Pi 3
 
-Flexible Adafruit DotStar Matrix 8x32 - 256 RGB LED Pixels
+* Flexible Adafruit DotStar Matrix 8x32 - 256 RGB LED Pixels
 
-Wood or acrylic (optional for containment unit)
+* Wood or acrylic (optional for containment unit)
 
 ## **Libraries Needed:**
 
@@ -36,19 +36,19 @@ This is a Python library for pulling data from HTML and XML files. To download t
 
 ## **Project Roles:**
 ### Jorge:
-Wiring & soldering
+* Wiring & soldering
 
-Writing a macros to launch python code
+* Writing a macros to launch python code
 
 ### Trevor:
-Translating strings to the LED matrix
+* Translating strings to the LED matrix
 
 ### Connor:
-Pulling tweets and converting them into a text file
+* Pulling tweets and converting them into a text file
 
 ### Elias:
-Designing, cutting, and building the containment frame
+* Designing, cutting, and building the containment frame
 
 ### Jadyn:
-Documenting the project
+* Documenting the project
 
