@@ -7,7 +7,9 @@ IB Group 4 project for the POHS computer science class of 2019
 
 ## **Materials necessary:**
 Raspberry Pi 3
+
 Flexible Adafruit DotStar Matrix 8x32 - 256 RGB LED Pixels
+
 Wood or acrylic (optional)
 
 ## **Libraries Needed:**
