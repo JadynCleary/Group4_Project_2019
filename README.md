@@ -53,4 +53,5 @@ This is a Python library for pulling data from HTML and XML files. To download t
 
 ### Jadyn:
 * Documenting the project
+* Project Coordinator
 
