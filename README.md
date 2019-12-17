@@ -52,6 +52,6 @@ This is a Python library for pulling data from HTML and XML files. To download t
 * Designing, cutting, and building the containment frame
 
 ### Jadyn:
-* Documenting the project
+* Documentation
 * Project Coordinator
 
